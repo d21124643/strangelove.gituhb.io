@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Bowlby One SC
+- Font Author: Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names "Bowlby"
+- Font Source: http://fonts.gstatic.com/s/bowlbyonesc/v20/DtVlJxerQqQm37tzN3wMug9Pzgj8owhNjuE.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
